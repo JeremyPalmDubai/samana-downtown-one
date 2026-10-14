@@ -1,0 +1,197 @@
+[
+  {
+    "filename": "samana-downtown-one-facade.webp",
+    "source": "Brochure.pdf p11, embedded image 1",
+    "source_dimensions": [
+      1660,
+      2345
+    ],
+    "dimensions": [
+      1660,
+      2345
+    ],
+    "bytes": 568294
+  },
+  {
+    "filename": "samana-downtown-one-aerial.webp",
+    "source": "Brochure.pdf p13, embedded image 1",
+    "source_dimensions": [
+      1660,
+      2345
+    ],
+    "dimensions": [
+      1660,
+      2345
+    ],
+    "bytes": 730924
+  },
+  {
+    "filename": "samana-downtown-one-lobby.webp",
+    "source": "Brochure.pdf p14, embedded image 0",
+    "source_dimensions": [
+      3314,
+      2345
+    ],
+    "dimensions": [
+      2000,
+      1415
+    ],
+    "bytes": 139024
+  },
+  {
+    "filename": "samana-downtown-one-living-room.webp",
+    "source": "Brochure.pdf p15, embedded image 0",
+    "source_dimensions": [
+      3315,
+      2345
+    ],
+    "dimensions": [
+      2000,
+      1415
+    ],
+    "bytes": 145178
+  },
+  {
+    "filename": "samana-downtown-one-kitchen.webp",
+    "source": "Brochure.pdf p17, embedded image 0",
+    "source_dimensions": [
+      3315,
+      2345
+    ],
+    "dimensions": [
+      2000,
+      1415
+    ],
+    "bytes": 150796
+  },
+  {
+    "filename": "samana-downtown-one-bedroom.webp",
+    "source": "Brochure.pdf p18, embedded image 0",
+    "source_dimensions": [
+      3314,
+      2345
+    ],
+    "dimensions": [
+      2000,
+      1415
+    ],
+    "bytes": 176200
+  },
+  {
+    "filename": "samana-downtown-one-pool-deck.webp",
+    "source": "Brochure.pdf p22, embedded image 0",
+    "source_dimensions": [
+      3314,
+      2343
+    ],
+    "dimensions": [
+      2000,
+      1414
+    ],
+    "bytes": 281310
+  },
+  {
+    "filename": "samana-downtown-one-kids-play-area.webp",
+    "source": "Brochure.pdf p23, embedded image 0",
+    "source_dimensions": [
+      3315,
+      2339
+    ],
+    "dimensions": [
+      2000,
+      1411
+    ],
+    "bytes": 677772
+  },
+  {
+    "filename": "samana-downtown-one-indoor-gym.webp",
+    "source": "Brochure.pdf p24, embedded image 0",
+    "source_dimensions": [
+      3313,
+      2345
+    ],
+    "dimensions": [
+      2000,
+      1416
+    ],
+    "bytes": 194692
+  },
+  {
+    "filename": "samana-downtown-one-golf-simulator.webp",
+    "source": "Brochure.pdf p25, embedded image 0",
+    "source_dimensions": [
+      3229,
+      2283
+    ],
+    "dimensions": [
+      2000,
+      1414
+    ],
+    "bytes": 336314
+  },
+  {
+    "filename": "samana-downtown-one-immersive-fitness.webp",
+    "source": "Brochure.pdf p26, embedded image 0",
+    "source_dimensions": [
+      3314,
+      2345
+    ],
+    "dimensions": [
+      2000,
+      1415
+    ],
+    "bytes": 231414
+  },
+  {
+    "filename": "samana-downtown-one-yoga-studio.webp",
+    "source": "Brochure.pdf p27, embedded image 0",
+    "source_dimensions": [
+      3188,
+      2256
+    ],
+    "dimensions": [
+      2000,
+      1415
+    ],
+    "bytes": 196060
+  },
+  {
+    "filename": "samana-downtown-one-sunset-hero.webp",
+    "source": "Supplied PNG Coll\u00e9 14-10-2026 \u00e0 20.16.51.png. Native width 1536, not upscaled.",
+    "source_dimensions": [
+      1536,
+      864
+    ],
+    "dimensions": [
+      1536,
+      864
+    ],
+    "bytes": 318686
+  },
+  {
+    "filename": "samana-downtown-one-night-exterior.webp",
+    "source": "Supplied PNG Coll\u00e9 14-10-2026 \u00e0 20.16.36.png.",
+    "source_dimensions": [
+      1536,
+      864
+    ],
+    "dimensions": [
+      1536,
+      864
+    ],
+    "bytes": 201774
+  },
+  {
+    "filename": "samana-downtown-one-tower-hero.webp",
+    "source": "Brochure.pdf p12 embedded image 1",
+    "source_dimensions": [
+      1661,
+      2345
+    ],
+    "dimensions": [
+      1661,
+      2345
+    ],
+    "bytes": 365056
+  }
+]
